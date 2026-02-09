@@ -129,18 +129,10 @@ Viết kiểm thử đơn vị với JUnit
 
 Viết tài liệu README
 
-Commit gắn với issue theo đúng quy ước:
-
-feat: implement StudentAnalyzer methods #1 #2
-test: add unit tests for StudentAnalyzer #3
-docs: add README.md #4
 
 7. Kết luận
-
 Thông qua bài tập này, sinh viên đã:
-
 Hiểu cách xây dựng kiểm thử đơn vị bằng JUnit
-
 Biết cách xử lý dữ liệu đầu vào và các trường hợp biên
 
 Thực hành quy trình phát triển phần mềm với Git và GitHub
